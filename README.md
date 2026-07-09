@@ -2,7 +2,7 @@
 
 A machine learning regression project that predicts house sale prices using the Kaggle House Prices dataset.
 
-Built to learn regression techniques and model comparison after completing the Titanic classification project.
+Built to learn regression techniques and model comparison.
 
 ## What I did
 - Explored and cleaned a dataset with 80 features and 1460 rows
